@@ -2,6 +2,7 @@ import random
 import sys
 import time
 test = 2
+test = 1
 
 Level = 1
 #Klassen
