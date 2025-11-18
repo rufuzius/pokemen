@@ -1,7 +1,7 @@
 import random
 import sys
 import time
-
+test = 1
 
 Level = 1
 #Klassen
@@ -577,3 +577,4 @@ while True:
 
     if pokemon_spieler[0].KP < 0:
         spieler_pokemon_besiegt()
+
